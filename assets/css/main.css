@@ -497,19 +497,3 @@ body[data-theme="dark"] .text-muted {
     max-width: inherit;
   }
 }
-
-/*!   
- * Version: Bootstrap v5.1.3 (https://getbootstrap.com/)
- * Author: Pedram Badakhchani
- * Hashnode: https://hashnode.com/@pedbad
-*/
-
-/*
-TODO -- 
-Use Custom properties (--*): CSS variables
-https://developer.mozilla.org/en-US/docs/Web/CSS/--*
-
-Don't Use Pixels for Font Size!
-https://www.aleksandrhovhannisyan.com/blog/respecting-font-size-preferences-rems-62-5-percent/
-
-*/
